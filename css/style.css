@@ -1898,8 +1898,8 @@ h2 {
 
   .centered-text {
     font-size: 14px; /* Further decrease font size for smaller screens */
+    width: 90%; /* Adjust width for smaller screens */
   }
-
   .logos-slide img {
     height: 50px; /* Decrease the height further for smaller screens */
     margin: 0 5px; /* Adjust margin as needed */
@@ -1912,6 +1912,10 @@ h2 {
     margin: 0 3px; /* Adjust margin as needed */
   }
 
+  .centered-text {
+    font-size: 12px; /* Further decrease font size for even smaller screens */
+    width: 90%; /* Adjust width for even smaller screens */
+  }
  
 }
 
